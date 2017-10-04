@@ -18,6 +18,8 @@ So what will it be? To summarize your choices:
 * Both of you swerve, and neither of you get anything of value.
 * If one of you swerves, the other one doesn't, the one who doesn't swerve wins the right to forever humiliate the other with the title "chicken".
 
+**Full results:** https://github.com/zonination/gametheory/blob/master/game_a.csv
+
 ![Game A - Chicken](https://raw.githubusercontent.com/zonination/gametheory/master/game_a.png)
 
 ### Game B - Snitch
@@ -31,6 +33,8 @@ So what will it be? To summarize your choices:
 * One snitches and the other stays quiet, snitch gets 0 years and the other gets 3
 * Neither of you snitch, you both get 1 year
 
+**Full results:** https://github.com/zonination/gametheory/blob/master/game_B.csv
+
 ![Game B - Snitch](https://raw.githubusercontent.com/zonination/gametheory/master/game_b.png)
 
 ### Game C - Game Show
@@ -43,6 +47,8 @@ So what will it be? To summarize your choices:
 * Both of you SHARE, you both get $500
 * Both of you STEAL, you both get nothing.
 * One SHAREs and the other STEALs, the STEAL gets $1000 and the SHARE gets nothing.
+
+**Full results:** https://github.com/zonination/gametheory/blob/master/game_c.csv
 
 ![Game C - Game Show](https://raw.githubusercontent.com/zonination/gametheory/master/game_c.png)
 
@@ -59,6 +65,8 @@ What will it be? To summarize your choices:
 * If you both choose Peace, the conflict ends and nobody perishes.
 * If one of you Nukes, and the other chooses Peace, the one who selects Nuke wins while the other gets destroyed.
 
+**Full results:** https://github.com/zonination/gametheory/blob/master/game_d.csv
+
 ![Game D - First Strike](https://raw.githubusercontent.com/zonination/gametheory/master/game_d.png)
 
 ### Game E - MAD
@@ -71,6 +79,8 @@ What will it be? To summarize your choices:
 * If you both Nuke, you both get annihilated.
 * If you both choose Peace, the conflict simply gets worse.
 * If one of you Nukes, and the other chooses Peace, you both get annihilated because of Second Strike protocols.
+
+**Full results:** https://github.com/zonination/gametheory/blob/master/game_e.csv
 
 ![Game E - MAD](https://raw.githubusercontent.com/zonination/gametheory/master/game_e.png)
 
