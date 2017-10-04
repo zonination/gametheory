@@ -4,9 +4,9 @@ Full summary here: https://www.reddit.com/r/SampleSize/comments/747ofd/results_i
 
 ## Summary of Results
 
-If a user selects the same scenario as another Redditor, you will be randomly paired with them. The outcome depends on the decision you two make together, and in the Results thread you will both be called out. Choose wisely.
+If a user selects the same scenario as another Redditor, they will be randomly paired with them. The outcome depends on the decision the redditors make together, and in the Results thread they were both called out.
 
-Only one response is allowed per user per scenario.
+Redditors were instructed to read the instructions carefully. Only one response is allowed per user per scenario. If a user submitted conflicting responses for a scenario, I messaged them directly and asked which one they wanted to pick.
 
 ### Game A - Chicken
 
