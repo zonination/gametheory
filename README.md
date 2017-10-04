@@ -1,8 +1,12 @@
 # gametheory
 
-https://www.reddit.com/r/SampleSize/comments/747ofd/results_i_have_compiled_the_results_of_the_game/
+Full summary here: https://www.reddit.com/r/SampleSize/comments/747ofd/results_i_have_compiled_the_results_of_the_game/
 
-## Gallery and Description
+## Summary of Results
+
+If a user selects the same scenario as another Redditor, you will be randomly paired with them. The outcome depends on the decision you two make together, and in the Results thread you will both be called out. Choose wisely.
+
+Only one response is allowed per user per scenario.
 
 ### Game A - Chicken
 
